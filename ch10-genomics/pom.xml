@@ -33,7 +33,7 @@
   </repositories>
 
   <properties>
-    <adam.version>0.21.0</adam.version>
+    <adam.version>0.24.0</adam.version>
     <bdg.formats.version>0.10.1</bdg.formats.version>
   </properties>
 
