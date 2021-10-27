@@ -34,7 +34,7 @@
 
   <properties>
     <adam.version>0.21.0</adam.version>
-    <bdg.formats.version>0.10.1</bdg.formats.version>
+    <bdg.formats.version>0.17.0</bdg.formats.version>
   </properties>
 
   <dependencies>
