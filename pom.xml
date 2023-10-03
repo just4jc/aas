@@ -137,7 +137,7 @@
       <dependency>
         <groupId>info.bliki.wiki</groupId>
         <artifactId>bliki-core</artifactId>
-        <version>3.0.19</version>
+        <version>3.1.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
@@ -194,11 +194,11 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <hadoop.version>2.7.3</hadoop.version>
+    <hadoop.version>3.3.0</hadoop.version>
     <java.version>1.8</java.version>
     <scala.minor.version>2.11</scala.minor.version>
     <scala.complete.version>${scala.minor.version}.8</scala.complete.version>
-    <spark.version>2.1.2</spark.version>
+    <spark.version>2.2.0</spark.version>
   </properties>
 
   <dependencies>
